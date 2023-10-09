@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **shdhumale@gmaill.com**
 
-- 📄 Know about my experiences [Having 20+ professional experience in development of various applications on different Web based Application and Client Server Application.](Having 20+ professional experience in development of various applications on different Web based Application and Client Server Application.)
+- 📄 Know about my experiences [Having 20+ professional experience in development of various applications on different Web based Application and Client Server Application.]
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
