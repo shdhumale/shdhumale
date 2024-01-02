@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Spring,Spring LDAP, Spring Security, GWT(Google Web Tool), Ext- GWT, SOAP Technology (Apache Axis, Apache CXF RS,WS), Thrift, Java web Start,Hibernate, Ajax, Portal, Portlet, Jersey Restful Services, Java OSGI Frame, Shibboleth Single Sing on Architecture, Core Java, Struts, Swing, and J2EE Technologies like JSP, Servlet, JDBC and Java Beans, EJB (Both Sesssion and Entity Bean),RabbitMQ and Apache Kafka Messaging BUS. Android Development, Angular, Microservice, Service Mesh using Istio, Docker, Kubernetes, Ansible, CI/CD Pipeline.**
 
-- 📫 How to reach me **shdhumale@gmaill.com**
+- 📫 How to reach me **shdhumale@gmail.com**
 
 - 📄 Know about my experiences [Having 20+ professional experience in development of various applications on different Web based Application and Client Server Application.]
 
