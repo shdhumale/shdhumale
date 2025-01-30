@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Microservice**
 
-- 🌱 I’m currently learning **AI Technologies and its impact on human generation**
+- 🌱 I’m currently learning **AI Technologies and its impact on human**
 
 - 👯 I’m looking to collaborate on **AI Technologies**
 
