@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **AI Technologies**
 
-- 👨‍💻 All of my projects are available at [[https://github.com/shdhumale/](https://github.com/shdhumale)/]
+- 👨‍💻 All of my projects are available at [https://github.com/shdhumale/](https://github.com/shdhumale/)
 
 - 📝 I regularly write articles on [https://shdhumale.wordpress.com/](https://shdhumale.wordpress.com/)
 
